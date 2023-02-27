@@ -21,8 +21,8 @@ Tech Stacks
 Tools
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-  <img alt="Google" src="https://img.shields.io/badge/-Google Workspace-4285F4?style=flat-square&logo=Google&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Google" src="https://img.shields.io/badge/-Google Workspace-4285F4?style=flat-square&logo=Google&logoColor=white" />
   <img alt="Affinity Designer" src="https://img.shields.io/badge/-AffinityDesigner-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white" />
 </p>
 
