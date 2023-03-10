@@ -31,6 +31,7 @@ Tools
 |---|---|---|
 |[FoCo](https://github.com/kailey224/FoCo)|2022.12|여행객을 대상으로 현지인들만 아는 맛집을 소개해주는 사이트입니다.|
 |[마녀상점](https://github.com/kailey224/The-Witch-Store)|2022.10~2022.11|마녀상점을 컨셉으로 심리 테스트를 통해 나온 결과를 통해 상품을 추천해주는 서비스입니다.|
+|[웹 퍼블리싱](https://github.com/kailey224/web-publishing)|2022.06~2022.08|웹 퍼블리싱 공부를 통해 만든 페이지 입니다.|
 
 ## Work Experience & Certificate
 #### 💼 Work Experience
