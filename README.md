@@ -46,7 +46,6 @@ Tools
 #### 📄 Certificate
 > *2022.09~2022.12*  
 > **(주)엘리스 그룹 · 엘리스 SW Engineer 트랙 3기**
-> - React & TypeScript를 이용한 CRUD 기능 구현
-> - Node.js와 Express.js를 이용해 REST API 작성, 데이터베이스 연동 및 CRUD 기능 구현
-> - JavaScript의 동작 원리와 ES6 문법 학습
-> - HTML, CSS를 활용해 구현하고자 하는 화면을 표현
+> - React 와 TypeScript를 이용한 웹 서비스 제작 프로젝트 진행
+> - Vanilla JS와 Node.js를 이용한 웹 서비스 제작 프로젝트 진행
+> - HTML, CSS를 활용해 구현하고자 하는 화면을 표현, JavaScript의 동작 원리와 ES6 문법 학습
