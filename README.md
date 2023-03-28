@@ -30,22 +30,3 @@ Tools
 |[FoCo](https://github.com/kailey224/FoCo)|2022.12|여행객을 대상으로 현지인들만 아는 맛집을 소개해주는 사이트입니다.|
 |[마녀상점](https://github.com/kailey224/The-Witch-Store)|2022.10~2022.11|마녀상점을 컨셉으로 심리 테스트를 통해 나온 결과를 통해 상품을 추천해주는 서비스입니다.|
 |[웹 퍼블리싱](https://github.com/kailey224/web-publishing)|2022.07~2022.08|웹 퍼블리싱 공부를 통해 만든 페이지 입니다.|
-
-## Work Experience & Certificate
-#### 💼 Work Experience
-> *2019.01~2021.12*   
-> **(주)아트그라피 · 기획자** (비개발)
-> - 예술 교육 콘텐츠 및 아트 프로젝트 기획 및 운영
-> - 기업 니즈에 맞춘 아티스트 콜라보레이션 프로젝트 기획 및 운영
-> - 포트폴리오 : https://bit.ly/3ZjDJja
-
-> *2018.01~2018.12*  
-> **(주)아트그라피 · 인턴** (비개발)
-> - 예술 교육 및 아트 프로젝트 운영
-
-#### 📄 Certificate
-> *2022.09~2022.12*  
-> **(주)엘리스 그룹 · 엘리스 SW Engineer 트랙 3기**
-> - React 와 TypeScript를 이용한 웹 서비스 제작 프로젝트 진행
-> - Vanilla JS와 Node.js를 이용한 웹 서비스 제작 프로젝트 진행
-> - HTML, CSS를 활용해 구현하고자 하는 화면을 표현, JavaScript의 동작 원리와 ES6 문법 학습
